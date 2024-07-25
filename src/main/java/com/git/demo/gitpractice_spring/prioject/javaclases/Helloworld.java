@@ -7,6 +7,8 @@ public class Helloworld {
 		System.out.println("hello world 1");
 		
 		System.out.println("hellow world 2") ;
+		
+		System.out.println("hai 3 ");
 	}
 
 }
